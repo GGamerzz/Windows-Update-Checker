@@ -18,9 +18,8 @@ A Python script to test DNS resolution and port connectivity (80, 443) for Micro
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/connectivity-checker.git
+git clone https://github.com/GGamerzz/connectivity-checker.git
 cd connectivity-checker
-chmod +x connectivity_checker.py
 ```
 
 ## Usage
